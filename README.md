@@ -1,16 +1,59 @@
-# gargaar_app
+# Gargaar App
 
-A new Flutter project.
+Gargaar App is a Flutter-based cross-platform application for reporting incidents, managing records, handling notifications, and connecting users with Firebase services.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Firebase authentication
+- Incident reporting and tracking
+- Chat support
+- Notifications
+- Profile management
+- Records and history screens
+- Supports Android, iOS, Web, Windows, macOS, and Linux
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase Auth
+- Cloud Firestore
+- Firebase Storage
+- Firebase Messaging
+- FlutterFire CLI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Setup
+
+### Requirements
+
+- Flutter SDK
+- Dart SDK
+- Firebase project
+- Android Studio, Xcode, or VS Code
+
+### Install dependencies
+
+```bash
+flutter pub get
+flutterfire configure
+Running the app
+Android / iOS / Desktop
+flutter run
+
+
+
+## 👥 Team Members
+
+This project **"Gargaar App"** was developed by a team consisting of:
+
+1. Mohamed Sayid Mohamed
+2. Nabil Mahboub
+3. Ridwaan Abdirashid
+4. Rahmo Mohamed
+5. Suleeqo Mohamed
+6. Shankaron Husein
+
+## 📌 Note
+All team members contributed to the development, design, and testing of this Flutter application.
+
+
